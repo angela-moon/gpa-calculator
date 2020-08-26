@@ -338,8 +338,6 @@ def calculate_grade():
     stand = "<tkinter.StringVar object at 0x03AFF520>"
     hon = "<tkinter.StringVar object at 0x03AFFAC0>"
 
-
-
     if class_num == 8:
         class1_grade = int(class1_entry.get())
         class2_grade = int(class2_entry.get())
