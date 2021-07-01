@@ -10,4 +10,4 @@ a list of your GPAs for each class.
 Once it's done with asking for your grade in each class, it will average the values in the list of GPAs and will output your average GPA
 to the tenth place.
 
-There are two drafts of the GUI code at the moment because one was too messy. 
+There are two drafts of the GUI code at the moment because one was too messy. The GUI is also broken at the moment, but the script works fine.
